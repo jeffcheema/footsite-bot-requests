@@ -1,0 +1,38 @@
+{
+    "shippingAddress": 
+        {
+            "setAsDefaultBilling":true,
+            "setAsDefaultShipping":false,
+            "firstName":"John",
+            "lastName":"Doe",
+            "email":"johndoe@gmail.com",
+            "phone":"1231231234",
+            "country":{
+               "isocode":"US",
+               "name":"United States"
+            },
+            "id":null,
+            "setAsBilling":false,
+            "saveInAddressBook":false,
+            "region":{
+               "countryIso":"IL",
+               "isocode":"US-IL",
+               "isocodeShort":"IL",
+               "name":"Illinois"
+            },
+            "type":"default",
+            "LoqateSearch":"",
+            "line1":"600 N Clark St",
+            "postalCode":"60654-3615",
+            "town":"Chicago",
+            "regionFPO":null,
+            "shippingAddress":true,
+            "recordType":"S"
+         },
+    "paymentInfo": {
+        "number": "1234 1234 1234 1234",
+        "expiryMonth": "03",
+        "expiryYear": "2027",
+        "cardCVV": "123"
+      }         
+}
