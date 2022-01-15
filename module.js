@@ -24,7 +24,7 @@ const { window } = new JSDOM(
       constructor(data) {
         this.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36"
         this.carted = false;
-        this.capmonsterKey = process.env.APIKEY;
+        this.capmonsterKey = data.capmonsterKey;
         this.sku = data.sku;
         this.footsite = data.footsite;
         this.size = data.size;
