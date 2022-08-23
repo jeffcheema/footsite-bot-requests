@@ -29,3 +29,4 @@ In order to submit payment, the card number MUST be encrypted using Adyen's JS l
 
 ### Does it work? 
 Yes it does! Here's an order confirmation for a pair of socks I ordered on Eastbay, only took 7 seconds to checkout!
+![Receipt](https://raw.githubusercontent.com/jeffcheema/footsite-bot-requests/main/receipt.png)
